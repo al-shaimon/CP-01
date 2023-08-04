@@ -1,8 +1,6 @@
 {
   "files.associations": {
-    "ostream": "cpp",
     "iostream": "cpp",
-    "cmath": "cpp",
     "any": "cpp",
     "array": "cpp",
     "atomic": "cpp",
@@ -16,6 +14,7 @@
     "chrono": "cpp",
     "cinttypes": "cpp",
     "clocale": "cpp",
+    "cmath": "cpp",
     "codecvt": "cpp",
     "compare": "cpp",
     "complex": "cpp",
@@ -72,6 +71,7 @@
     "mutex": "cpp",
     "new": "cpp",
     "numbers": "cpp",
+    "ostream": "cpp",
     "ranges": "cpp",
     "scoped_allocator": "cpp",
     "semaphore": "cpp",
